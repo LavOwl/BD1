@@ -2,3 +2,4 @@ appointments.sql linguist-vendored
 insert_appointments.sql linguist-vendored
 
 *.sql linguist-language=SQL
+*.sql linguist-detectable=true
